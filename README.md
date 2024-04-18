@@ -8,39 +8,41 @@ Ce projet a été réalisé par Clément Jantet, Calliste Ravix, Antonin Delhomm
 
 L'application de chronomètre "Magie Mentalisme" a été conçue pour les plateformes Android et iOS avec une fonctionnalité unique : intégrer des éléments de magie dans l'utilisation du chronomètre. Cette idée est née de la volonté d'explorer les nouvelles possibilités offertes par les technologies modernes, telles que les smartphones, pour créer des expériences interactives et surprenantes.
 
-## Objectifs du projet
+## Fonctionnalités Principales :
 
-Les objectifs du projet étaient de créer un chronomètre avec des fonctionnalités spécifiquement conçues pour les magiciens. Cela comprenait la mise en place d'une interface intuitive, la gestion précise du temps jusqu'aux centièmes de seconde, la possibilité d'entrer manuellement des chiffres ou de les scanner via la caméra, l'implémentation de différents scénarios pour les tours de magie, et la création d'un tutoriel clair et instructif.
+### 1. Interface Utilisateur Intuitive :
 
-## Méthodologie utilisée
+L'application propose une interface utilisateur discrète et intuitive, offrant une expérience fluide aux utilisateurs. Ils peuvent facilement accéder aux différentes fonctionnalités de l'application, y compris au chronomètre, aux réglages et aux options spécifiques à la magie. De plus, l'interface peut s'adapter en fonction du modèle de téléphone de l'utilisateur.
 
-Nous avons adopté une approche agile pour le développement de ce projet, en utilisant des sprints d'un mois pour planifier, développer, et tester les fonctionnalités de l'application. Une communication régulière avec le client a été maintenue tout au long du processus de développement pour garantir une collaboration efficace et une adaptation rapide aux besoins changeants.
+### 2. Gestion Précise du Temps :
 
-## Répartition des tâches
+L'application offre une précision de mesure du temps jusqu'aux centièmes de seconde, permettant aux utilisateurs de réaliser des tours de magie basés sur des minutages précis. Cette fonctionnalité garantit que les tours de magie sont exécutés avec une précision absolue.
 
-Chaque membre de l'équipe avait des responsabilités spécifiques :
-- Clément : conception et implémentation de l'interface utilisateur et du tutoriel.
-- Calliste : implémentation du mode de trucage de l'application et du scanner de chiffres.
-- Antonin : mise en place des scénarios de tours de magie.
-- Guillain : gestion efficace du système de gestion de version.
-- Maxime : coordination du projet et communication avec le client.
+### 3. Entrée Manuelle des Chiffres :
 
-## Présentation du travail réalisé
+Les utilisateurs ont la possibilité d'entrer manuellement des chiffres dans l'application, ce qui leur permet de personnaliser les tours de magie en fonction de leurs besoins spécifiques. Cette fonctionnalité est utile lorsque le magicien souhaite préremplir les chiffres à afficher avant le début du tour.
 
-L'application offre une interface utilisateur intuitive, une gestion précise du temps, la possibilité d'entrer manuellement des chiffres ou de les scanner via la caméra, différents scénarios pour les tours de magie, et un tutoriel clair et instructif.
+### 4. Scanner de Chiffres via la Caméra :
 
-## Objectifs non atteints
+L'application permet aux utilisateurs de scanner des chiffres à l'aide de la caméra de leur appareil. Cette fonctionnalité leur permet de capturer des chiffres à partir de divers supports physiques, tels que des cartes à jouer ou des billets de banque, pour les intégrer dans leurs tours de magie.
 
-Certains objectifs n'ont pas été pleinement réalisés, notamment l'implémentation d'un mode truqué activé par NFC et l'utilisation du gyroscope du téléphone pour rentrer des chiffres. Ces fonctionnalités n'ont pas été intégrées en raison de contraintes de temps et de complexités techniques.
+### 5. Différents Scénarios pour les Tours de Magie :
 
-## Projection sur l’éventuelle suite du projet
+Différents scénarios préconfigurés sont disponibles dans l'application pour les tours de magie. Les utilisateurs peuvent modifier les chiffres des centièmes et des dixièmes ou uniquement ceux des centièmes en appuyant longuement sur un bouton, offrant ainsi un maximum de personnalisation pour une discrétion maximale.
 
-Des améliorations potentielles pourraient inclure l'implémentation du mode truqué activé par NFC, l'amélioration de la discrétion de l'application, l'internationalisation de l'application, et l'ajout d'interfaces utilisateur pour différentes marques de téléphones.
+### 6. Tutoriel Clair et Instructif :
 
-## Bilan sur ce qui a fonctionné ou n'a pas fonctionné au sein du groupe
+L'application comprend un tutoriel intégré qui fournit des instructions détaillées sur l'utilisation des différentes fonctionnalités. Cela permet aux utilisateurs de comprendre rapidement comment exploiter au mieux l'application pour réaliser leurs tours de magie avec succès.
 
-Le projet a été une source d'apprentissage précieuse, mais des défis ont été rencontrés en termes de coordination des tâches et de réalisation de tous les objectifs fixés. Cependant, une communication efficace et une priorisation des tâches ont permis de livrer une version fonctionnelle de l'application.
+## Installation et Utilisation :
 
-## Conclusion
+Pour installer l'application, clonez le dépôt GitHub vers votre machine locale, puis lancez l'application sur votre navigateur web préféré. Suivez les instructions à l'écran pour commencer à utiliser l'application et réaliser vos tours de magie.
 
-Ce projet a été une expérience enrichissante dans le développement de logiciels d'envergure. Bien que certains objectifs n'aient pas été entièrement réalisés, cela nous a permis de comprendre l'importance d'une bonne gestion du temps et des ressources dans les projets de grande envergure, et nous a fourni une base solide pour nos projets futurs.
+## Contribution et Développement :
+
+Les contributions au développement de cette application sont les bienvenues ! Pour contribuer, veuillez soumettre des pull requests avec des améliorations, des corrections de bugs ou de nouvelles fonctionnalités. Assurez-vous de consulter le fichier CONTRIBUTING.md pour les directives de contribution.
+
+## Licence :
+
+Ce projet est sous licence MIT. Voir le fichier LICENSE.md pour plus de détails.
+
