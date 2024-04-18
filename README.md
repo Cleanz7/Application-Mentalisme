@@ -14,7 +14,7 @@ L'application de chronomètre "Magie Mentalisme" a été conçue pour les platef
 
 L'application propose une interface utilisateur discrète et intuitive, offrant une expérience fluide aux utilisateurs. Ils peuvent facilement accéder aux différentes fonctionnalités de l'application, y compris au chronomètre, aux réglages et aux options spécifiques à la magie. De plus, l'interface peut s'adapter en fonction du modèle de téléphone de l'utilisateur.
 
-![UI android](https://github.com/Cleanz7/Application-mentalisme/blob/main/UI_android.png)
+![UI android <img width="256" >](https://github.com/Cleanz7/Application-mentalisme/blob/main/UI_android.png)
 
 ### 2. Gestion Précise du Temps :
 
